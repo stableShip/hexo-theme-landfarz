@@ -10,9 +10,11 @@ widgets:
 - recent_posts
 - tag
 - tagcloud
+- links
+
 
 # Duoshuo
-duoshuo_shortname: 
+duoshuo_shortname: jiezj
 
 fancybox: true
 
@@ -21,3 +23,8 @@ rss:
 google_site_verification: 
 baidu_site_verification: 
 icon: 
+
+# Links
+links:
+  tommyZZM: http://www.chalet581.xyz
+  sineyuan: http://sineyuan.github.io
